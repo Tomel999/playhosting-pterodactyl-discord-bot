@@ -151,8 +151,8 @@ The bot gracefully handles:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contact
 
-_This section can include how to contribute, open issues, or submit pull requests if made public._
+_discord: tomel999_
 
 ---
